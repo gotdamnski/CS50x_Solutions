@@ -1,4 +1,4 @@
-# Week X Problem Set (CS50)
+# Week 1 Problem Set (CS50)
 
 ## What I Learned
 - Basic syntax in C
