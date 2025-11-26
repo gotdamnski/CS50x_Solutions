@@ -2,7 +2,7 @@
 
 ## What I Learned
 - Arrays
-- String and C- just an array of characters
+- String in C- just an array of characters
 - ASCII value and characters manipulation with ctype.h library
 - Using the command-line arguments
 ## Challenges I Faced
