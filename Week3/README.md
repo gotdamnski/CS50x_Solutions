@@ -10,6 +10,7 @@
     - Linear search
     - Binary search
 - Structs in C
+- Recursion
 ## ⚡ Challenges I Faced
 - Tideman is really, really hard
 - Existential crisis
